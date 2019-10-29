@@ -34,7 +34,7 @@ function collectGreen(){
         i=i+100;
     }
     
-    toast("收集完成");
+    toast("收成");
 
 }
 
